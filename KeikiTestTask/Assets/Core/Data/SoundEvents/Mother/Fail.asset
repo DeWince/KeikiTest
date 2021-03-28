@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45fe9d7cc807a334a892f3f02045007f, type: 3}
+  m_Name: Fail
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 893b8989eb7562640865c5680558269b, type: 3}
+  - {fileID: 8300000, guid: de0cd46c7da9cef4dae2d4373d811d0a, type: 3}
+  - {fileID: 8300000, guid: a6e9767972ed85f4bbb2949d273001b3, type: 3}
+  - {fileID: 8300000, guid: 9d6566bf53ce8174b9721e388d15317a, type: 3}
+  - {fileID: 8300000, guid: cf5981fec9c87f042ba1654c9477dbb5, type: 3}
+  - {fileID: 8300000, guid: 1d55ebbd02b190e44af537ea6d2c1dfa, type: 3}
+  - {fileID: 8300000, guid: 534d27c7774fdec49af7bce365f14df9, type: 3}
+  volume: 1

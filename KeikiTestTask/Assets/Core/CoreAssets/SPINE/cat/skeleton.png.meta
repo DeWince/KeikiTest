@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: a0beb54a89b92a5488b96515ab650b8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2937495654602536652
+    second: Arm 2
+  - first:
+      213: -1540238720588902164
+    second: Ear
+  - first:
+      213: -7670438834444436177
+    second: Eyebrow
+  - first:
+      213: 148712786153551596
+    second: Eyebrow 2
+  - first:
+      213: -9086180929692022949
+    second: Eyelid
+  - first:
+      213: -538365430077468431
+    second: Eyelid closed
+  - first:
+      213: -5417492547795509745
+    second: Eyelid closed 2
+  - first:
+      213: -4403037683462042548
+    second: Eyes
+  - first:
+      213: 3179304722189209140
+    second: Hair
+  - first:
+      213: 4134470982481670237
+    second: Head
+  - first:
+      213: -2222063635086418634
+    second: Lapa s kogtyami 1 2
+  - first:
+      213: -7060556861679597365
+    second: Lapa s kogtyami 2 2
+  - first:
+      213: 482158057274714734
+    second: Leg 2
+  - first:
+      213: -3609291888314881143
+    second: Mouth 1
+  - first:
+      213: 2221930463404757304
+    second: Mouth 2
+  - first:
+      213: 881405039327598414
+    second: Mouth 3
+  - first:
+      213: -2728355594532441461
+    second: Mouth 4
+  - first:
+      213: 2115233442751633999
+    second: Mouth 5
+  - first:
+      213: 8205279308212460822
+    second: Mouth 6
+  - first:
+      213: 1242354848082236865
+    second: Mouth 7
+  - first:
+      213: 7437712810571523569
+    second: Neck
+  - first:
+      213: 4157595169170118822
+    second: Nose
+  - first:
+      213: 8483713978885967151
+    second: Pupil 2
+  - first:
+      213: -6816913963984064580
+    second: Spine
+  - first:
+      213: -2514718498510673910
+    second: Tail line
+  - first:
+      213: -5177447029556865912
+    second: Tongue
+  - first:
+      213: 2013707456418485388
+    second: Whisker 5
+  - first:
+      213: -4029891293749282433
+    second: blik 1
+  - first:
+      213: 5028425546175065662
+    second: eyelid 2
+  - first:
+      213: -4321612168738661795
+    second: eyelid 2 shcuritsya
+  - first:
+      213: 3409192672353564510
+    second: eyelid 2 udivlenie
+  - first:
+      213: 4559133675999674761
+    second: eyelid shcuritsya
+  - first:
+      213: 252315633207021446
+    second: eyelid udivlenie
+  - first:
+      213: 5792024165129499730
+    second: hat
+  - first:
+      213: -6649806698633658981
+    second: hat cat back
+  - first:
+      213: 4603204557614856885
+    second: hat_back
+  - first:
+      213: 8297524572939289
+    second: head 2
+  - first:
+      213: -3574820651616021983
+    second: heart
+  - first:
+      213: -5108345932712933596
+    second: heart 2
+  - first:
+      213: 8321764556622238431
+    second: klubok
+  - first:
+      213: -3949455477043971270
+    second: kogot1
+  - first:
+      213: -89629370311385
+    second: kogot2
+  - first:
+      213: 5692187550593945185
+    second: kogot3
+  - first:
+      213: 5698501645447725615
+    second: kogot4
+  - first:
+      213: 5497857753363024451
+    second: mouth
+  - first:
+      213: -6832636885690642397
+    second: nitka
+  - first:
+      213: 8210433723065505049
+    second: osheinik
+  - first:
+      213: -3974633835528758859
+    second: pupil big
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
